@@ -3,12 +3,13 @@
 
 ## May the force be with you 
 <div>
- <img width="30" height="30" src="https://www.seekpng.com/png/detail/378-3780389_leia-icon-star-wars-icon-png.png">
- <img width="30" height="30" src="https://www.pngitem.com/pimgs/m/51-510626_imperial-icon-star-wars-hd-png-download.png">
+ <img width="30" height="30" src="https://www.seekpng.com/png/detail/378-3780389_leia-icon-star-wars-icon-png.png"> 
  <img width="30" height="30" src="https://cdn.imgbin.com/20/11/21/imgbin-anakin-skywalker-computer-icons-sith-star-wars-star-wars-ray-kvPyGSbFS5y8PqACsqg2vNBCG.jpg">
  <img width="30" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROayHO2xIDxKaWSrkJKs1Wc-GuQqlLySDdqg&usqp=CAU">
  <img width="30" height="30" src="https://www.nicepng.com/png/detail/378-3780322_1024px-png-star-wars-icon-vector.png">
  <img width="30" height="30" src="https://www.pngitem.com/pimgs/m/204-2040760_contact-starwars-user-default-yoda-comments-users-icon.png">
+ <img width="30" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU_9IO6iRtik3rN1Rjxj6EU_B1_8iAlOa58w&usqp=CAU">
+ <img width="30" height="30" src="https://www.pngitem.com/pimgs/m/51-510626_imperial-icon-star-wars-hd-png-download.png">
 
  <div>
   <a href="https://github.com/cristijung">
