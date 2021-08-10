@@ -31,11 +31,7 @@
   
 </div>
   
-  ## The Best
-  <div>
-  <p>
-  <img align="center" height="180em" src="https://www.einerd.com.br/wp-content/uploads/2020/04/Star-Wars-Darth-Vader-capa-890x466.jpg">
-  </p>
-  </div>
+  ## by CristiJung
+  
   
 
