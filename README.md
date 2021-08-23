@@ -35,7 +35,7 @@
   https://empreender.mercadofavo.com/
   <br>
   https://emprender.mercadofavo.com/  
-  ### FronEnde de:
+  ### FrontEnd de:
   https://cadastro.mercadofavo.com
   
   ## by CristiJung
