@@ -36,6 +36,10 @@
   https://empreender.mercadofavo.com/
   <br>
   https://emprender.mercadofavo.com/  
+  <br>
+  https://jundiai.mercadofavo.com/
+  <br>
+  https://client-jundiai.mercadofavo.com/
   ### FrontEnd de:
   https://cadastro.mercadofavo.com
   
