@@ -42,7 +42,7 @@
   <br>
   https://client-jundiai.mercadofavo.com/
   ### FrontEnd de:
-  https://cadastro.mercadofavo.com
+  https://cadastro.mercadofavo.com/es-pe
   
   ## by CristiJung
   
