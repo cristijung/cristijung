@@ -31,20 +31,7 @@
   <img align="center" alt="Cristina-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
 </div>
   
-##
-  
- ### Portfólio
-  https://empreender.mercadofavo.com/
-  <br>
-  https://emprender.mercadofavo.com/  
-  <br>
-  https://jundiai.mercadofavo.com/
-  <br>
-  https://client-jundiai.mercadofavo.com/
-  ### FrontEnd de:
-  https://cadastro.mercadofavo.com/es-pe
-  
-  ## by CristiJung
+## by CristiJung
   
   
 
